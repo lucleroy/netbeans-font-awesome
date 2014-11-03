@@ -1,0 +1,1 @@
+This plugin add a category to HTML palette with Font Awesome icons.
