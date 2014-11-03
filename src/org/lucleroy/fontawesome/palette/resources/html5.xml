@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE editor_palette_item PUBLIC '-//NetBeans//Editor Palette Item 1.1//EN' 'null'>
+
+<editor_palette_item version="1.0">
+    <class name="org.lucleroy.fontawesome.palette.snippets.Html5"/>
+    
+    <icon16 urlvalue="org/lucleroy/fontawesome/palette/resources/html5-16.png"/>
+    <icon32 urlvalue="org/lucleroy/fontawesome/palette/resources/html5-32.png"/>
+    
+    <inline-description>
+        <display-name>html5</display-name>
+        <tooltip>html5</tooltip>
+    </inline-description>
+</editor_palette_item>

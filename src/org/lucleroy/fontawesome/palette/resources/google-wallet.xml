@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE editor_palette_item PUBLIC '-//NetBeans//Editor Palette Item 1.1//EN' 'null'>
+
+<editor_palette_item version="1.0">
+    <class name="org.lucleroy.fontawesome.palette.snippets.GoogleWallet"/>
+    
+    <icon16 urlvalue="org/lucleroy/fontawesome/palette/resources/google-wallet-16.png"/>
+    <icon32 urlvalue="org/lucleroy/fontawesome/palette/resources/google-wallet-32.png"/>
+    
+    <inline-description>
+        <display-name>google-wallet</display-name>
+        <tooltip>google-wallet</tooltip>
+    </inline-description>
+</editor_palette_item>

@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+OpenIDE-Module: org.lucleroy.fontawesome.palette/1
+OpenIDE-Module-Layer: org/lucleroy/fontawesome/palette/layer.xml
+OpenIDE-Module-Localizing-Bundle: org/lucleroy/fontawesome/palette/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0.0
+
