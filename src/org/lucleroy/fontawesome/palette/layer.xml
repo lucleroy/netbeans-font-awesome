@@ -10,6 +10,27 @@
                     <attr name="instanceOf" stringvalue="org.netbeans.spi.palette.PaletteController"/>
                 </file>
             </folder>
+            <folder name="x-twig">
+                <file name="org-lucleroy-fontawesome-palette-FontAwesomePaletteFactory-createPalette.instance">
+                    <attr
+                        methodvalue="org.lucleroy.fontawesome.palette.FontAwesomePaletteFactory.createPalette" name="instanceCreate"/>
+                    <attr name="instanceOf" stringvalue="org.netbeans.spi.palette.PaletteController"/>
+                </file>
+            </folder>
+            <folder name="x-tpl">
+                <file name="org-lucleroy-fontawesome-palette-FontAwesomePaletteFactory-createPalette.instance">
+                    <attr
+                        methodvalue="org.lucleroy.fontawesome.palette.FontAwesomePaletteFactory.createPalette" name="instanceCreate"/>
+                    <attr name="instanceOf" stringvalue="org.netbeans.spi.palette.PaletteController"/>
+                </file>
+            </folder>
+            <folder name="x-latte">
+                <file name="org-lucleroy-fontawesome-palette-FontAwesomePaletteFactory-createPalette.instance">
+                    <attr
+                        methodvalue="org.lucleroy.fontawesome.palette.FontAwesomePaletteFactory.createPalette" name="instanceCreate"/>
+                    <attr name="instanceOf" stringvalue="org.netbeans.spi.palette.PaletteController"/>
+                </file>
+            </folder>
         </folder>
     </folder>
     <folder name="HTMLPalette">
