@@ -15,7 +15,6 @@ public class FontAwesomePaletteFactory {
 
     private static PaletteController palette = null;
 
-    
     public static PaletteController createPalette() {
         try {
             if (null == palette) {
