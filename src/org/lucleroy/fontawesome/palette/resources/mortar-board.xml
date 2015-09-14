@@ -2,7 +2,7 @@
 <!DOCTYPE editor_palette_item PUBLIC '-//NetBeans//Editor Palette Item 1.1//EN' 'null'>
 
 <editor_palette_item version="1.0">
-    <class name="org.lucleroy.fontawesome.palette.snippets.MortarBoard"/>
+    <class name="org.lucleroy.fontawesome.palette.snippets.IconMortarBoard"/>
     
     <icon16 urlvalue="org/lucleroy/fontawesome/palette/resources/mortar-board-16.png"/>
     <icon32 urlvalue="org/lucleroy/fontawesome/palette/resources/mortar-board-32.png"/>

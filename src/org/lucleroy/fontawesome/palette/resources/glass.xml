@@ -2,7 +2,7 @@
 <!DOCTYPE editor_palette_item PUBLIC '-//NetBeans//Editor Palette Item 1.1//EN' 'null'>
 
 <editor_palette_item version="1.0">
-    <class name="org.lucleroy.fontawesome.palette.snippets.Glass"/>
+    <class name="org.lucleroy.fontawesome.palette.snippets.IconGlass"/>
     
     <icon16 urlvalue="org/lucleroy/fontawesome/palette/resources/glass-16.png"/>
     <icon32 urlvalue="org/lucleroy/fontawesome/palette/resources/glass-32.png"/>

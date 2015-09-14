@@ -199,10 +199,12 @@
                         <file name="bookmark-o.xml" url="resources/bookmark-o.xml" />
                         <file name="phone-square.xml" url="resources/phone-square.xml" />
                         <file name="twitter.xml" url="resources/twitter.xml" />
+                        <file name="facebook-f.xml" url="resources/facebook-f.xml" />
                         <file name="facebook.xml" url="resources/facebook.xml" />
                         <file name="github.xml" url="resources/github.xml" />
                         <file name="unlock.xml" url="resources/unlock.xml" />
                         <file name="credit-card.xml" url="resources/credit-card.xml" />
+                        <file name="feed.xml" url="resources/feed.xml" />
                         <file name="rss.xml" url="resources/rss.xml" />
                         <file name="hdd-o.xml" url="resources/hdd-o.xml" />
                         <file name="bullhorn.xml" url="resources/bullhorn.xml" />
@@ -439,6 +441,7 @@
                         <file name="female.xml" url="resources/female.xml" />
                         <file name="male.xml" url="resources/male.xml" />
                         <file name="gittip.xml" url="resources/gittip.xml" />
+                        <file name="gratipay.xml" url="resources/gratipay.xml" />
                         <file name="sun-o.xml" url="resources/sun-o.xml" />
                         <file name="moon-o.xml" url="resources/moon-o.xml" />
                         <file name="archive.xml" url="resources/archive.xml" />
@@ -531,6 +534,8 @@
                         <file name="empire.xml" url="resources/empire.xml" />
                         <file name="git-square.xml" url="resources/git-square.xml" />
                         <file name="git.xml" url="resources/git.xml" />
+                        <file name="y-combinator-square.xml" url="resources/y-combinator-square.xml" />
+                        <file name="yc-square.xml" url="resources/yc-square.xml" />
                         <file name="hacker-news.xml" url="resources/hacker-news.xml" />
                         <file name="tencent-weibo.xml" url="resources/tencent-weibo.xml" />
                         <file name="qq.xml" url="resources/qq.xml" />
@@ -591,6 +596,126 @@
                         <file name="sheqel.xml" url="resources/sheqel.xml" />
                         <file name="ils.xml" url="resources/ils.xml" />
                         <file name="meanpath.xml" url="resources/meanpath.xml" />
+                        <file name="buysellads.xml" url="resources/buysellads.xml" />
+                        <file name="connectdevelop.xml" url="resources/connectdevelop.xml" />
+                        <file name="dashcube.xml" url="resources/dashcube.xml" />
+                        <file name="forumbee.xml" url="resources/forumbee.xml" />
+                        <file name="leanpub.xml" url="resources/leanpub.xml" />
+                        <file name="sellsy.xml" url="resources/sellsy.xml" />
+                        <file name="shirtsinbulk.xml" url="resources/shirtsinbulk.xml" />
+                        <file name="simplybuilt.xml" url="resources/simplybuilt.xml" />
+                        <file name="skyatlas.xml" url="resources/skyatlas.xml" />
+                        <file name="cart-plus.xml" url="resources/cart-plus.xml" />
+                        <file name="cart-arrow-down.xml" url="resources/cart-arrow-down.xml" />
+                        <file name="diamond.xml" url="resources/diamond.xml" />
+                        <file name="ship.xml" url="resources/ship.xml" />
+                        <file name="user-secret.xml" url="resources/user-secret.xml" />
+                        <file name="motorcycle.xml" url="resources/motorcycle.xml" />
+                        <file name="street-view.xml" url="resources/street-view.xml" />
+                        <file name="heartbeat.xml" url="resources/heartbeat.xml" />
+                        <file name="venus.xml" url="resources/venus.xml" />
+                        <file name="mars.xml" url="resources/mars.xml" />
+                        <file name="mercury.xml" url="resources/mercury.xml" />
+                        <file name="intersex.xml" url="resources/intersex.xml" />
+                        <file name="transgender.xml" url="resources/transgender.xml" />
+                        <file name="transgender-alt.xml" url="resources/transgender-alt.xml" />
+                        <file name="venus-double.xml" url="resources/venus-double.xml" />
+                        <file name="mars-double.xml" url="resources/mars-double.xml" />
+                        <file name="venus-mars.xml" url="resources/venus-mars.xml" />
+                        <file name="mars-stroke.xml" url="resources/mars-stroke.xml" />
+                        <file name="mars-stroke-v.xml" url="resources/mars-stroke-v.xml" />
+                        <file name="mars-stroke-h.xml" url="resources/mars-stroke-h.xml" />
+                        <file name="neuter.xml" url="resources/neuter.xml" />
+                        <file name="genderless.xml" url="resources/genderless.xml" />
+                        <file name="facebook-official.xml" url="resources/facebook-official.xml" />
+                        <file name="pinterest-p.xml" url="resources/pinterest-p.xml" />
+                        <file name="whatsapp.xml" url="resources/whatsapp.xml" />
+                        <file name="server.xml" url="resources/server.xml" />
+                        <file name="user-plus.xml" url="resources/user-plus.xml" />
+                        <file name="user-times.xml" url="resources/user-times.xml" />
+                        <file name="hotel.xml" url="resources/hotel.xml" />
+                        <file name="bed.xml" url="resources/bed.xml" />
+                        <file name="viacoin.xml" url="resources/viacoin.xml" />
+                        <file name="train.xml" url="resources/train.xml" />
+                        <file name="subway.xml" url="resources/subway.xml" />
+                        <file name="medium.xml" url="resources/medium.xml" />
+                        <file name="yc.xml" url="resources/yc.xml" />
+                        <file name="y-combinator.xml" url="resources/y-combinator.xml" />
+                        <file name="optin-monster.xml" url="resources/optin-monster.xml" />
+                        <file name="opencart.xml" url="resources/opencart.xml" />
+                        <file name="expeditedssl.xml" url="resources/expeditedssl.xml" />
+                        <file name="battery-4.xml" url="resources/battery-4.xml" />
+                        <file name="battery-full.xml" url="resources/battery-full.xml" />
+                        <file name="battery-3.xml" url="resources/battery-3.xml" />
+                        <file name="battery-three-quarters.xml" url="resources/battery-three-quarters.xml" />
+                        <file name="battery-2.xml" url="resources/battery-2.xml" />
+                        <file name="battery-half.xml" url="resources/battery-half.xml" />
+                        <file name="battery-1.xml" url="resources/battery-1.xml" />
+                        <file name="battery-quarter.xml" url="resources/battery-quarter.xml" />
+                        <file name="battery-0.xml" url="resources/battery-0.xml" />
+                        <file name="battery-empty.xml" url="resources/battery-empty.xml" />
+                        <file name="mouse-pointer.xml" url="resources/mouse-pointer.xml" />
+                        <file name="i-cursor.xml" url="resources/i-cursor.xml" />
+                        <file name="object-group.xml" url="resources/object-group.xml" />
+                        <file name="object-ungroup.xml" url="resources/object-ungroup.xml" />
+                        <file name="sticky-note.xml" url="resources/sticky-note.xml" />
+                        <file name="sticky-note-o.xml" url="resources/sticky-note-o.xml" />
+                        <file name="cc-jcb.xml" url="resources/cc-jcb.xml" />
+                        <file name="cc-diners-club.xml" url="resources/cc-diners-club.xml" />
+                        <file name="clone.xml" url="resources/clone.xml" />
+                        <file name="balance-scale.xml" url="resources/balance-scale.xml" />
+                        <file name="hourglass-o.xml" url="resources/hourglass-o.xml" />
+                        <file name="hourglass-1.xml" url="resources/hourglass-1.xml" />
+                        <file name="hourglass-start.xml" url="resources/hourglass-start.xml" />
+                        <file name="hourglass-2.xml" url="resources/hourglass-2.xml" />
+                        <file name="hourglass-half.xml" url="resources/hourglass-half.xml" />
+                        <file name="hourglass-3.xml" url="resources/hourglass-3.xml" />
+                        <file name="hourglass-end.xml" url="resources/hourglass-end.xml" />
+                        <file name="hourglass.xml" url="resources/hourglass.xml" />
+                        <file name="hand-grab-o.xml" url="resources/hand-grab-o.xml" />
+                        <file name="hand-rock-o.xml" url="resources/hand-rock-o.xml" />
+                        <file name="hand-stop-o.xml" url="resources/hand-stop-o.xml" />
+                        <file name="hand-paper-o.xml" url="resources/hand-paper-o.xml" />
+                        <file name="hand-scissors-o.xml" url="resources/hand-scissors-o.xml" />
+                        <file name="hand-lizard-o.xml" url="resources/hand-lizard-o.xml" />
+                        <file name="hand-spock-o.xml" url="resources/hand-spock-o.xml" />
+                        <file name="hand-pointer-o.xml" url="resources/hand-pointer-o.xml" />
+                        <file name="hand-peace-o.xml" url="resources/hand-peace-o.xml" />
+                        <file name="trademark.xml" url="resources/trademark.xml" />
+                        <file name="registered.xml" url="resources/registered.xml" />
+                        <file name="creative-commons.xml" url="resources/creative-commons.xml" />
+                        <file name="gg.xml" url="resources/gg.xml" />
+                        <file name="gg-circle.xml" url="resources/gg-circle.xml" />
+                        <file name="tripadvisor.xml" url="resources/tripadvisor.xml" />
+                        <file name="odnoklassniki.xml" url="resources/odnoklassniki.xml" />
+                        <file name="odnoklassniki-square.xml" url="resources/odnoklassniki-square.xml" />
+                        <file name="get-pocket.xml" url="resources/get-pocket.xml" />
+                        <file name="wikipedia-w.xml" url="resources/wikipedia-w.xml" />
+                        <file name="safari.xml" url="resources/safari.xml" />
+                        <file name="chrome.xml" url="resources/chrome.xml" />
+                        <file name="firefox.xml" url="resources/firefox.xml" />
+                        <file name="opera.xml" url="resources/opera.xml" />
+                        <file name="internet-explorer.xml" url="resources/internet-explorer.xml" />
+                        <file name="tv.xml" url="resources/tv.xml" />
+                        <file name="television.xml" url="resources/television.xml" />
+                        <file name="contao.xml" url="resources/contao.xml" />
+                        <file name="500px.xml" url="resources/500px.xml" />
+                        <file name="amazon.xml" url="resources/amazon.xml" />
+                        <file name="calendar-plus-o.xml" url="resources/calendar-plus-o.xml" />
+                        <file name="calendar-minus-o.xml" url="resources/calendar-minus-o.xml" />
+                        <file name="calendar-times-o.xml" url="resources/calendar-times-o.xml" />
+                        <file name="calendar-check-o.xml" url="resources/calendar-check-o.xml" />
+                        <file name="industry.xml" url="resources/industry.xml" />
+                        <file name="map-pin.xml" url="resources/map-pin.xml" />
+                        <file name="map-signs.xml" url="resources/map-signs.xml" />
+                        <file name="map-o.xml" url="resources/map-o.xml" />
+                        <file name="map.xml" url="resources/map.xml" />
+                        <file name="commenting.xml" url="resources/commenting.xml" />
+                        <file name="commenting-o.xml" url="resources/commenting-o.xml" />
+                        <file name="houzz.xml" url="resources/houzz.xml" />
+                        <file name="vimeo.xml" url="resources/vimeo.xml" />
+                        <file name="black-tie.xml" url="resources/black-tie.xml" />
+                        <file name="fonticons.xml" url="resources/fonticons.xml" />
                     </folder>
     </folder>
     <folder name="XHTMLPalette">
@@ -752,10 +877,12 @@
                         <file name="bookmark-o.xml" url="resources/bookmark-o.xml" />
                         <file name="phone-square.xml" url="resources/phone-square.xml" />
                         <file name="twitter.xml" url="resources/twitter.xml" />
+                        <file name="facebook-f.xml" url="resources/facebook-f.xml" />
                         <file name="facebook.xml" url="resources/facebook.xml" />
                         <file name="github.xml" url="resources/github.xml" />
                         <file name="unlock.xml" url="resources/unlock.xml" />
                         <file name="credit-card.xml" url="resources/credit-card.xml" />
+                        <file name="feed.xml" url="resources/feed.xml" />
                         <file name="rss.xml" url="resources/rss.xml" />
                         <file name="hdd-o.xml" url="resources/hdd-o.xml" />
                         <file name="bullhorn.xml" url="resources/bullhorn.xml" />
@@ -992,6 +1119,7 @@
                         <file name="female.xml" url="resources/female.xml" />
                         <file name="male.xml" url="resources/male.xml" />
                         <file name="gittip.xml" url="resources/gittip.xml" />
+                        <file name="gratipay.xml" url="resources/gratipay.xml" />
                         <file name="sun-o.xml" url="resources/sun-o.xml" />
                         <file name="moon-o.xml" url="resources/moon-o.xml" />
                         <file name="archive.xml" url="resources/archive.xml" />
@@ -1084,6 +1212,8 @@
                         <file name="empire.xml" url="resources/empire.xml" />
                         <file name="git-square.xml" url="resources/git-square.xml" />
                         <file name="git.xml" url="resources/git.xml" />
+                        <file name="y-combinator-square.xml" url="resources/y-combinator-square.xml" />
+                        <file name="yc-square.xml" url="resources/yc-square.xml" />
                         <file name="hacker-news.xml" url="resources/hacker-news.xml" />
                         <file name="tencent-weibo.xml" url="resources/tencent-weibo.xml" />
                         <file name="qq.xml" url="resources/qq.xml" />
@@ -1144,6 +1274,126 @@
                         <file name="sheqel.xml" url="resources/sheqel.xml" />
                         <file name="ils.xml" url="resources/ils.xml" />
                         <file name="meanpath.xml" url="resources/meanpath.xml" />
+                        <file name="buysellads.xml" url="resources/buysellads.xml" />
+                        <file name="connectdevelop.xml" url="resources/connectdevelop.xml" />
+                        <file name="dashcube.xml" url="resources/dashcube.xml" />
+                        <file name="forumbee.xml" url="resources/forumbee.xml" />
+                        <file name="leanpub.xml" url="resources/leanpub.xml" />
+                        <file name="sellsy.xml" url="resources/sellsy.xml" />
+                        <file name="shirtsinbulk.xml" url="resources/shirtsinbulk.xml" />
+                        <file name="simplybuilt.xml" url="resources/simplybuilt.xml" />
+                        <file name="skyatlas.xml" url="resources/skyatlas.xml" />
+                        <file name="cart-plus.xml" url="resources/cart-plus.xml" />
+                        <file name="cart-arrow-down.xml" url="resources/cart-arrow-down.xml" />
+                        <file name="diamond.xml" url="resources/diamond.xml" />
+                        <file name="ship.xml" url="resources/ship.xml" />
+                        <file name="user-secret.xml" url="resources/user-secret.xml" />
+                        <file name="motorcycle.xml" url="resources/motorcycle.xml" />
+                        <file name="street-view.xml" url="resources/street-view.xml" />
+                        <file name="heartbeat.xml" url="resources/heartbeat.xml" />
+                        <file name="venus.xml" url="resources/venus.xml" />
+                        <file name="mars.xml" url="resources/mars.xml" />
+                        <file name="mercury.xml" url="resources/mercury.xml" />
+                        <file name="intersex.xml" url="resources/intersex.xml" />
+                        <file name="transgender.xml" url="resources/transgender.xml" />
+                        <file name="transgender-alt.xml" url="resources/transgender-alt.xml" />
+                        <file name="venus-double.xml" url="resources/venus-double.xml" />
+                        <file name="mars-double.xml" url="resources/mars-double.xml" />
+                        <file name="venus-mars.xml" url="resources/venus-mars.xml" />
+                        <file name="mars-stroke.xml" url="resources/mars-stroke.xml" />
+                        <file name="mars-stroke-v.xml" url="resources/mars-stroke-v.xml" />
+                        <file name="mars-stroke-h.xml" url="resources/mars-stroke-h.xml" />
+                        <file name="neuter.xml" url="resources/neuter.xml" />
+                        <file name="genderless.xml" url="resources/genderless.xml" />
+                        <file name="facebook-official.xml" url="resources/facebook-official.xml" />
+                        <file name="pinterest-p.xml" url="resources/pinterest-p.xml" />
+                        <file name="whatsapp.xml" url="resources/whatsapp.xml" />
+                        <file name="server.xml" url="resources/server.xml" />
+                        <file name="user-plus.xml" url="resources/user-plus.xml" />
+                        <file name="user-times.xml" url="resources/user-times.xml" />
+                        <file name="hotel.xml" url="resources/hotel.xml" />
+                        <file name="bed.xml" url="resources/bed.xml" />
+                        <file name="viacoin.xml" url="resources/viacoin.xml" />
+                        <file name="train.xml" url="resources/train.xml" />
+                        <file name="subway.xml" url="resources/subway.xml" />
+                        <file name="medium.xml" url="resources/medium.xml" />
+                        <file name="yc.xml" url="resources/yc.xml" />
+                        <file name="y-combinator.xml" url="resources/y-combinator.xml" />
+                        <file name="optin-monster.xml" url="resources/optin-monster.xml" />
+                        <file name="opencart.xml" url="resources/opencart.xml" />
+                        <file name="expeditedssl.xml" url="resources/expeditedssl.xml" />
+                        <file name="battery-4.xml" url="resources/battery-4.xml" />
+                        <file name="battery-full.xml" url="resources/battery-full.xml" />
+                        <file name="battery-3.xml" url="resources/battery-3.xml" />
+                        <file name="battery-three-quarters.xml" url="resources/battery-three-quarters.xml" />
+                        <file name="battery-2.xml" url="resources/battery-2.xml" />
+                        <file name="battery-half.xml" url="resources/battery-half.xml" />
+                        <file name="battery-1.xml" url="resources/battery-1.xml" />
+                        <file name="battery-quarter.xml" url="resources/battery-quarter.xml" />
+                        <file name="battery-0.xml" url="resources/battery-0.xml" />
+                        <file name="battery-empty.xml" url="resources/battery-empty.xml" />
+                        <file name="mouse-pointer.xml" url="resources/mouse-pointer.xml" />
+                        <file name="i-cursor.xml" url="resources/i-cursor.xml" />
+                        <file name="object-group.xml" url="resources/object-group.xml" />
+                        <file name="object-ungroup.xml" url="resources/object-ungroup.xml" />
+                        <file name="sticky-note.xml" url="resources/sticky-note.xml" />
+                        <file name="sticky-note-o.xml" url="resources/sticky-note-o.xml" />
+                        <file name="cc-jcb.xml" url="resources/cc-jcb.xml" />
+                        <file name="cc-diners-club.xml" url="resources/cc-diners-club.xml" />
+                        <file name="clone.xml" url="resources/clone.xml" />
+                        <file name="balance-scale.xml" url="resources/balance-scale.xml" />
+                        <file name="hourglass-o.xml" url="resources/hourglass-o.xml" />
+                        <file name="hourglass-1.xml" url="resources/hourglass-1.xml" />
+                        <file name="hourglass-start.xml" url="resources/hourglass-start.xml" />
+                        <file name="hourglass-2.xml" url="resources/hourglass-2.xml" />
+                        <file name="hourglass-half.xml" url="resources/hourglass-half.xml" />
+                        <file name="hourglass-3.xml" url="resources/hourglass-3.xml" />
+                        <file name="hourglass-end.xml" url="resources/hourglass-end.xml" />
+                        <file name="hourglass.xml" url="resources/hourglass.xml" />
+                        <file name="hand-grab-o.xml" url="resources/hand-grab-o.xml" />
+                        <file name="hand-rock-o.xml" url="resources/hand-rock-o.xml" />
+                        <file name="hand-stop-o.xml" url="resources/hand-stop-o.xml" />
+                        <file name="hand-paper-o.xml" url="resources/hand-paper-o.xml" />
+                        <file name="hand-scissors-o.xml" url="resources/hand-scissors-o.xml" />
+                        <file name="hand-lizard-o.xml" url="resources/hand-lizard-o.xml" />
+                        <file name="hand-spock-o.xml" url="resources/hand-spock-o.xml" />
+                        <file name="hand-pointer-o.xml" url="resources/hand-pointer-o.xml" />
+                        <file name="hand-peace-o.xml" url="resources/hand-peace-o.xml" />
+                        <file name="trademark.xml" url="resources/trademark.xml" />
+                        <file name="registered.xml" url="resources/registered.xml" />
+                        <file name="creative-commons.xml" url="resources/creative-commons.xml" />
+                        <file name="gg.xml" url="resources/gg.xml" />
+                        <file name="gg-circle.xml" url="resources/gg-circle.xml" />
+                        <file name="tripadvisor.xml" url="resources/tripadvisor.xml" />
+                        <file name="odnoklassniki.xml" url="resources/odnoklassniki.xml" />
+                        <file name="odnoklassniki-square.xml" url="resources/odnoklassniki-square.xml" />
+                        <file name="get-pocket.xml" url="resources/get-pocket.xml" />
+                        <file name="wikipedia-w.xml" url="resources/wikipedia-w.xml" />
+                        <file name="safari.xml" url="resources/safari.xml" />
+                        <file name="chrome.xml" url="resources/chrome.xml" />
+                        <file name="firefox.xml" url="resources/firefox.xml" />
+                        <file name="opera.xml" url="resources/opera.xml" />
+                        <file name="internet-explorer.xml" url="resources/internet-explorer.xml" />
+                        <file name="tv.xml" url="resources/tv.xml" />
+                        <file name="television.xml" url="resources/television.xml" />
+                        <file name="contao.xml" url="resources/contao.xml" />
+                        <file name="500px.xml" url="resources/500px.xml" />
+                        <file name="amazon.xml" url="resources/amazon.xml" />
+                        <file name="calendar-plus-o.xml" url="resources/calendar-plus-o.xml" />
+                        <file name="calendar-minus-o.xml" url="resources/calendar-minus-o.xml" />
+                        <file name="calendar-times-o.xml" url="resources/calendar-times-o.xml" />
+                        <file name="calendar-check-o.xml" url="resources/calendar-check-o.xml" />
+                        <file name="industry.xml" url="resources/industry.xml" />
+                        <file name="map-pin.xml" url="resources/map-pin.xml" />
+                        <file name="map-signs.xml" url="resources/map-signs.xml" />
+                        <file name="map-o.xml" url="resources/map-o.xml" />
+                        <file name="map.xml" url="resources/map.xml" />
+                        <file name="commenting.xml" url="resources/commenting.xml" />
+                        <file name="commenting-o.xml" url="resources/commenting-o.xml" />
+                        <file name="houzz.xml" url="resources/houzz.xml" />
+                        <file name="vimeo.xml" url="resources/vimeo.xml" />
+                        <file name="black-tie.xml" url="resources/black-tie.xml" />
+                        <file name="fonticons.xml" url="resources/fonticons.xml" />
                     </folder>
     </folder>
 </filesystem>

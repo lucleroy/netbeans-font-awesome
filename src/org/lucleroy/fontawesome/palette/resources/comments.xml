@@ -2,7 +2,7 @@
 <!DOCTYPE editor_palette_item PUBLIC '-//NetBeans//Editor Palette Item 1.1//EN' 'null'>
 
 <editor_palette_item version="1.0">
-    <class name="org.lucleroy.fontawesome.palette.snippets.Comments"/>
+    <class name="org.lucleroy.fontawesome.palette.snippets.IconComments"/>
     
     <icon16 urlvalue="org/lucleroy/fontawesome/palette/resources/comments-16.png"/>
     <icon32 urlvalue="org/lucleroy/fontawesome/palette/resources/comments-32.png"/>

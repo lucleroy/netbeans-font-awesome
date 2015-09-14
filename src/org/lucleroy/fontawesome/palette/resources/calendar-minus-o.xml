@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE editor_palette_item PUBLIC '-//NetBeans//Editor Palette Item 1.1//EN' 'null'>
+
+<editor_palette_item version="1.0">
+    <class name="org.lucleroy.fontawesome.palette.snippets.IconCalendarMinusO"/>
+    
+    <icon16 urlvalue="org/lucleroy/fontawesome/palette/resources/calendar-minus-o-16.png"/>
+    <icon32 urlvalue="org/lucleroy/fontawesome/palette/resources/calendar-minus-o-32.png"/>
+    
+    <inline-description>
+        <display-name>calendar-minus-o</display-name>
+        <tooltip>calendar-minus-o</tooltip>
+    </inline-description>
+</editor_palette_item>

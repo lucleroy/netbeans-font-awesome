@@ -2,7 +2,7 @@
 <!DOCTYPE editor_palette_item PUBLIC '-//NetBeans//Editor Palette Item 1.1//EN' 'null'>
 
 <editor_palette_item version="1.0">
-    <class name="org.lucleroy.fontawesome.palette.snippets.ToggleOn"/>
+    <class name="org.lucleroy.fontawesome.palette.snippets.IconToggleOn"/>
     
     <icon16 urlvalue="org/lucleroy/fontawesome/palette/resources/toggle-on-16.png"/>
     <icon32 urlvalue="org/lucleroy/fontawesome/palette/resources/toggle-on-32.png"/>
